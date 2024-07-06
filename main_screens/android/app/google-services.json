@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "797985824427",
+    "firebase_url": "https://promise-2494a-default-rtdb.firebaseio.com",
+    "project_id": "promise-2494a",
+    "storage_bucket": "promise-2494a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797985824427:android:ccd455c2b7ba988935e1ee",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJ61YSAc-cnAlQruJk5QlsQUd1BbeMU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
